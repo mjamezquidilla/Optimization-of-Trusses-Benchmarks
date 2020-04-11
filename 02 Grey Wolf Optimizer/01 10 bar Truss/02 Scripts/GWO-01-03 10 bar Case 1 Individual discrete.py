@@ -1,4 +1,4 @@
-from Truss_2D import Truss_2D
+from pysead import Truss_2D
 import numpy as np
 from random import random
 import matplotlib.pyplot as plt 
